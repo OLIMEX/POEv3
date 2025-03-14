@@ -1,0 +1,6 @@
+POEv3 was designed with KiCAD - free and open source CAD software
+
+Hardware revision changes:
+
+Hardware revision A
+- initial release
